@@ -21,6 +21,7 @@ function generatorQuote() {
             quote: "The body is a slave to its impulses. But the thing that makes us human is what we can control. After the storm, after the rush, after the heat of the moment has passed, we can cool off and clean up the messes we made. We can try to let go of what was.",
             author: "Meredith Grey"
         },
+        
 
     
     ];
